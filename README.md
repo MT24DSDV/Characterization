@@ -10,16 +10,26 @@ All analysis scripts (`reflection_analysis.py` and `transmission_analysis.py`) r
 
 ## Repository Structure
 The structure that follow is the recommended structure to make sure the code works correctly. As I only reach the reflection and transmission.
+
 Grating-research/
 ├── reflection_analysis.py
+
 ├── transmission_analysis.py
+
 ├── tmm.py
+
 ├── data/
+
 │ ├── reflection/
+
 │ └── transmission/
+
 └── results/
+
 ├── reflection/
+
 ├── transmission/
+
 └── tmm/
 
 
